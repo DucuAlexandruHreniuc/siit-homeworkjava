@@ -1,6 +1,6 @@
 package ro.siit.homework;
 
-public class RevenueCalculator {
+public class BubbleSorter {
     public static void main(String[] args) {
 
         SalesRepresentatives[] salesmen = new SalesRepresentatives[6];
