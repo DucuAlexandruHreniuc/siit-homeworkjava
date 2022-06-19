@@ -49,6 +49,7 @@ public class Main {
                     break;
                 case 4:
                     System.out.println("Thank you for using this program");
+                    break;
                 default:
                     System.out.println("Invalid option\nPlease choose again");
             }
