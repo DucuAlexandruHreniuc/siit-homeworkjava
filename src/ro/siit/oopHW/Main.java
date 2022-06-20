@@ -57,12 +57,7 @@ public class Main {
     }
 
     private static void showOptions() {
-        System.out.println("\n~Menu~");
-        System.out.println("1. Add a book");
-        System.out.println("2. Remove a book");
-        System.out.println("3. List all my books");
-        System.out.println("4. Exit");
-        System.out.println("Choose your option: ");
+        System.out.println("\n~Menu~\n1. Add a book\n2. Remove a book\n3. List all my books\n4. Exit\nChoose your option:");
     }
 
     private Novel takeNovelInput() {
